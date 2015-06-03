@@ -6,8 +6,8 @@ div {
 	border-radius: 5px;
 	border: 2px solid #6495ED;
 	background-color: #BCD2EE;
-	height: 50px;
-	width: 120px;
+	height: 5em;
+	width: 120em;
 	margin: auto;
 	text-align: center;
 }
@@ -20,6 +20,6 @@ a {
 
 span {
 	font-weight: bold;
-	font-size: 18px;
-	color: #ffffff;
+	
+	color: brown;
 }
