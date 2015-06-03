@@ -1,8 +1,8 @@
 p {
-    font-size: 10px;
+    font-size: 1em;
 }
 
 span {
 	font-family: cursive;
-	color: orange;/*Add your CSS here!*/
+	color: brown;/*Add your CSS here!*/
 }
